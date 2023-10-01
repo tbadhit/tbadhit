@@ -2,7 +2,7 @@
 A fast learner who passionate in software engineer. Skilled in mobile development especially in Swift, UIKit, SwiftUI, Kotlin, Flutter, Dependency Injection, TDD, CI/CD and Various Architecture like MVVM.
 
 ## ✨ Get to know me!
-🧑🏻‍💻 A Learner at **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
+🧑🏻‍💻 Graduate From **[Apple Developer Academy @Infinite Learning Batam, Indonesia](https://www.developeracademy.infinitelearning.id/)**
 <br>
 💻 Mobile development enthusiast
 
