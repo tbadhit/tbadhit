@@ -1,4 +1,4 @@
-# Hi <img src="https://user-images.githubusercontent.com/75456232/206828302-af40a843-2e50-453d-823e-69686f0d8c97.gif" width="30px">, I'm Tubagus Adhitya P
+# Hi <img src="https://user-images.githubusercontent.com/75456232/206828302-af40a843-2e50-453d-823e-69686f0d8c97.gif" width="30px">, I'm Tubagus Adhitya
 A fast learner who passionate in software engineer. Skilled in mobile development especially in Swift, UIKit, SwiftUI, Kotlin, Flutter, Dependency Injection, TDD, CI/CD and Various Architecture like MVVM.
 
 ## ✨ Get to know me!
@@ -22,6 +22,10 @@ A fast learner who passionate in software engineer. Skilled in mobile developmen
 <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/75456232/206829694-c90da9d2-2bd2-43cb-ac8c-b77b38856b7e.png" height="40px"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/75456232/206828801-1759c82c-8c32-42fe-bbaa-8d2e3559bea7.png" height="40px"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/75456232/206828786-7bc118e7-433c-42a1-bc3a-ec7d6ee03fd4.png" height="40px"/> </a> 
+
+## 🚀 Check out my Portfolio!
+
+Want to see what I've been working on? Check out my [portfolio website](https://tbadhit.github.io/portfolio/) where you can see the projects I've developed, technologies I've used, and my growth as a mobile developer. 🌱
 
 ## 🚀 Connect with me
 <a href = "https://www.linkedin.com/in/tbadhit/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
