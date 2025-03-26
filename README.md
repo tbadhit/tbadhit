@@ -29,7 +29,6 @@ Want to see what I've been working on? Check out my [portfolio website](https://
 
 ## 🚀 Connect with me
 <a href = "https://www.linkedin.com/in/tbadhit/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/tbadhit/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tbadhit">
